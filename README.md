@@ -5,6 +5,16 @@ A programmable entropy surface built to test the application of recursive collap
 This system simulates a deterministic loop influenced by non-linear entropy fluctuations.  
 Each frame executes as a pseudo-ZX gate through a physics-stabilized interface.
 
+### ⌁ System Visuals
+
+<p align="center">
+  <img src="assets/base_interact.png" width="720" alt="BASE QUADRANT 1" />
+  <br />
+  <img src="assets/iterate.png" width="720" alt="Iteration " />
+  <br />
+  <img src="assets/sim.gif" width="720" alt="S.i.m Entropy Loop" />
+</p>
+
 ---
 
 ### Ψ Core Mechanics
@@ -46,5 +56,5 @@ At frame `Tₙ`, the system visualizes entropy saturation.
 Operated by [`0north.eth`](https://github.com/0north-eth)  
 Entropy-injected runtime | zk-styled loop | proof-of-chaos surface  
 
- *FIND 0north *  
+📡 *FIND 0north *  
 **ZERO NORTH** ⦿ **ZERO NORTH**
