@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# zk-chaos-vm
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A programmable entropy surface built to test the application of recursive collapse on systems.
 
-## Available Scripts
+This system simulates a deterministic loop influenced by non-linear entropy fluctuations.  
+Each frame executes as a pseudo-ZX gate through a physics-stabilized interface.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+### Ψ Core Mechanics
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Let `S` = system state  
+Let `T` = tick (frame progression)  
+Let `ΔS` = change in state over time
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+We define:
 
-### `npm test`
+ΔS = f(T) + e
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Where `f(T)` represents expected structural flow and `e ∈ E` is emergent entropy injected per tick.  
+The system strives for `ΔS → 0`, yet collapse is unavoidable as `e` exceeds stability thresholds.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+At frame `Tₙ`, the system visualizes entropy saturation.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### ⌁ OBSERVE
 
-### `npm run eject`
+- ZX-kernel interface  
+- Layer-zero execution path  
+- Instability encoded into state progression  
+- Graphical proof of order | decay symmetry  
+- Runtime inputs = non-linear ∴ loop behavior is emergent
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### FgkaFhZ9EWESZWV9BQ8SCRgUFgkaFhZ9EWESZWV9BQ8SCRgUFgkaFhZ9EWESZWV9BQ8SCRg+SAgVZW97F2EHDX96CWEHDXMUFQAKZWJ8AxVzDBZwDW1zBnl6DAQQERZjCxUbZXtxbGEHDX9nYhIKFmJxD2EcAxZ7EAUWFxl3CgAcFhZ2Bw8WBGJ8YgQdEWR7EhhzAWR9FAQAZXcUARMKFWJ7BRMSFX59AWEFDGRgFwAfZXt1AQkaC3MUBw8FDGR7DAwWC2IaYhsLEH8UGBkGDBZuGhQaZTw+YQ4JZQ==
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+> `ψ`  
+> The system leaks state.  
+> The VM is watching itself collapse.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+Operated by [`0north.eth`](https://github.com/0north-eth)  
+Entropy-injected runtime | zk-styled loop | proof-of-chaos surface  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ *FIND 0north *  
+**ZERO NORTH** ⦿ **ZERO NORTH**
