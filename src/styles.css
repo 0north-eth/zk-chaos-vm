@@ -1,0 +1,52 @@
+/* src/styles.css */
+
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: #000;
+  color: #fff;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.control-panel {
+  width: 100%;
+  background-color: #111;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.control-panel label {
+  color: #fff;
+  margin-right: 20px;
+  font-size: 14px;
+}
+
+.control-panel input[type="range"] {
+  margin-left: 8px;
+}
+
+.visualization-container {
+  width: 100%;
+  height: 60vh; /* Enough vertical space to display rings */
+}
+
+input[type="checkbox"] {
+  margin-right: 6px;
+}
+
+button {
+  margin-left: 16px;
+}
